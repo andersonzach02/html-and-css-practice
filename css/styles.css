@@ -5,12 +5,8 @@ p {
 
 h1 {
     font-family: "Trebuchet MS", Helvetica, sans-serif;
-<<<<<<< HEAD
 }
 
 p.important {
     font-size: 1.5em;
-=======
-    font-size: 2em;
->>>>>>> 2af60b58a966960c9135865b7c21369c4389a919
 }
