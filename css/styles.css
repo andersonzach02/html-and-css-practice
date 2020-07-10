@@ -19,3 +19,7 @@ p.important {
 .italicized {
     font-style: italic;
 }
+
+.emphasized {
+    font-style: italic;
+}
