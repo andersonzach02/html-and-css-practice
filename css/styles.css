@@ -23,3 +23,7 @@ p.important {
 .emphasized {
     font-style: italic;
 }
+
+.redout {
+    color: red;
+}
