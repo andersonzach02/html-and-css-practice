@@ -33,3 +33,11 @@ p.roomier {
     word-spacing: 2em;
     letter-spacing: .5em;
 }
+
+h3 {
+    text-align: center;
+}
+
+p.pretty {
+    text-align: justify;
+}
