@@ -27,3 +27,9 @@ p.important {
 .redout {
     color: red;
 }
+
+p.roomier {
+    line-height: 1.9em;
+    word-spacing: 2em;
+    letter-spacing: .5em;
+}
