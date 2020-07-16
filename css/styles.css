@@ -23,3 +23,12 @@ p.important {
 .emphasized {
     font-style: italic;
 }
+
+blockquote {
+    font-size: .4em;
+    color: rgb(0, 247, 255);
+}
+
+p.indented {
+    text-indent: 1.2em;
+}
