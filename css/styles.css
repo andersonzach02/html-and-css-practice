@@ -54,3 +54,7 @@ p.pretty {
 p.separated {
     margin: 4em;
 }
+
+.dot_enclosed {
+    border: 5px dotted purple;
+}
