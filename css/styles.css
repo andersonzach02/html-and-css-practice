@@ -50,3 +50,7 @@ h3 {
 p.pretty {
     text-align: justify;
 }
+
+p.separated {
+    margin: 4em;
+}
