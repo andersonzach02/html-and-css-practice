@@ -57,4 +57,5 @@ p.separated {
 
 .dot_enclosed {
     border: 5px dotted purple;
+    padding: .2em;
 }
