@@ -59,3 +59,7 @@ p.separated {
     border: 5px dotted purple;
     padding: .2em;
 }
+
+h4, .centered {
+    text-align: center;
+}
