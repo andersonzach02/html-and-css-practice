@@ -63,3 +63,7 @@ p.separated {
 h4, .centered {
     text-align: center;
 }
+
+h2#halloween {
+    color: orange;
+}
