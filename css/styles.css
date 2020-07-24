@@ -67,3 +67,9 @@ h4, .centered {
 h2#halloween {
     color: orange;
 }
+
+div#main_content {
+    margin-left: 3em;
+    margin-right: 3em;
+    font-family: Arial, Helvetica, sans-serif;
+}
